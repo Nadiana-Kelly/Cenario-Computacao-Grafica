@@ -2,6 +2,7 @@
 
 Trabalho da disciplina de Computação Gráfica - 2021.2. O Cilindro tem um pequeno bug que não conseguimos consertar, no qual o eixo segue a câmera.
 
+
 ## Imagens do cenario em diferentes angulos:
 ![image](https://user-images.githubusercontent.com/68611923/155616812-5c6cf9f6-df45-4a80-86a6-a3df70a78ea0.png)
 ![image](https://user-images.githubusercontent.com/68611923/155616830-1cc5b321-e737-4ff7-b6c6-0ab75f78d91f.png)
